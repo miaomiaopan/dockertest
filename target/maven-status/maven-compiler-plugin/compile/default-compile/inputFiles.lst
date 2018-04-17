@@ -1,5 +1,10 @@
-C:\javaworkspace\dockertest\src\main\java\cn\pmm\dockertest\Application.java
-C:\javaworkspace\dockertest\src\main\java\cn\pmm\dockertest\controller\BookController.java
-C:\javaworkspace\dockertest\src\main\java\cn\pmm\dockertest\entity\Book.java
-C:\javaworkspace\dockertest\src\main\java\cn\pmm\dockertest\dao\BookRepository.java
-C:\javaworkspace\dockertest\src\main\java\cn\pmm\dockertest\controller\TestController.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\dao\UserRepository.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\entity\Role.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\entity\User.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\entity\Book.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\controller\BookController.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\Application.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\controller\RootController.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\controller\TestController.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\dao\BookRepository.java
+C:\githubproject\dockertest\dockertest\src\main\java\cn\pmm\dockertest\security\SecurityConfig.java

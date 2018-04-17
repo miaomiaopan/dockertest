@@ -1,0 +1,12 @@
+cn\pmm\dockertest\dao\BookRepository.class
+cn\pmm\dockertest\security\SecurityConfig$1.class
+cn\pmm\dockertest\controller\BookController.class
+cn\pmm\dockertest\controller\RootController.class
+cn\pmm\dockertest\controller\TestController.class
+cn\pmm\dockertest\entity\User$Gender.class
+cn\pmm\dockertest\entity\Book.class
+cn\pmm\dockertest\entity\Role.class
+cn\pmm\dockertest\Application.class
+cn\pmm\dockertest\entity\User.class
+cn\pmm\dockertest\dao\UserRepository.class
+cn\pmm\dockertest\security\SecurityConfig.class
